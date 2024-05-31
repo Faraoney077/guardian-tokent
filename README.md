@@ -8,7 +8,7 @@ Uygulama Flask çalıştırabilen bütün cihazlara uyumludur. Flask sunucusu a�
 
 # Linux Tabanlı İşletim Sistemleri İçin
 
-1. `$ git clone https://github.com/Faraoney077/guardian-token/edit/main/README.md`
+1. `$ git clone https://github.com/Faraoney077/guardian-token`
 
 2. `$ cd guardian-token`
 
