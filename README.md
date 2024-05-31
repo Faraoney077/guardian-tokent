@@ -4,7 +4,14 @@
 Bir Flask web sunucusuna rastgele tokenler entegre etmek , bu tokenleri SMTP kullanarak giriş yapıldığında bildirim mailine göndermenizi sağlar. Önemli olan dosyalarınızın içerisine bu tokenleri makro ile entegre ettiğinizde dosyalarınız çalındığında ve başka bir cihazda açıldığında size bildirim gönderilmesini sağlar
 
 # İndirme
+Uygulama Flask çalıştırabilen bütün cihazlara uyumludur. Flask sunucusu açıldıktan sonra SMTP ayarları yapılarak kullanılabilir
 
+# Linux Tabanlı İşletim Sistemleri İçin
+
+git clone https://github.com/Faraoney077/guardian-token/edit/main/README.md
+
+cd guardian-token
+python3 guardian-token
 
 
 # Kullanım
