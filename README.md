@@ -11,6 +11,7 @@ Uygulama Flask çalıştırabilen bütün cihazlara uyumludur. Flask sunucusu a�
 git clone https://github.com/Faraoney077/guardian-token/edit/main/README.md
 
 cd guardian-token
+
 python3 guardian-token
 
 
