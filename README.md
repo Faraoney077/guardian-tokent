@@ -12,7 +12,9 @@ Uygulama Flask çalıştırabilen bütün cihazlara uyumludur. Flask sunucusu a�
 
 2. `$ cd guardian-token`
 
-3. `$ python3 guardian-token`
+3. `$ pip install -r requirements.txt`
+
+4. `$ python3 guardian-token`
 
 
 # Kullanım
