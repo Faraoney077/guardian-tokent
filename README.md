@@ -21,7 +21,7 @@ Uygulamayı indirdikten sonrasında bulunduğu dosyayı açınız ve `python3 gu
 
 # Ayarlar
 
-Kod bölümlerinde bulunan EMAIL_TO bölümüne kendi mail adresinizi eklemeniz gerekiyor. Kullanıcı adı ve şifre isteğe bağlı olarak kodlar üzerinden değiştirilebilir. Bu ayarlarınızı yaptıktan sonrasında büyük bir keyif ile kullanabilirsiniz. 
+Kod bölümlerinde bulunan `EMAIL_TO` bölümüne kendi mail adresinizi eklemeniz gerekiyor. Kullanıcı adı ve şifre isteğe bağlı olarak kodlar üzerinden değiştirilebilir. Bu ayarlarınızı yaptıktan sonrasında büyük bir keyif ile kullanabilirsiniz. 
 
 Not: SMTP sunucusunu değiştirecekseniz eğer sunucunun size verdiği kullanıcı adı ve şifreyi de değiştirmeniz gerekiyor. Ayrıca sunucunuz özel bir port numarası atıyorsa bu port numarasını da program üzerinden değiştirmeniz gerekiyor
 
